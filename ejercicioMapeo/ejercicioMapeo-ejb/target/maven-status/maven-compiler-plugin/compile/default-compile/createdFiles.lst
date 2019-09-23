@@ -1,0 +1,5 @@
+Ejb\UsuarioFacade.class
+Ejb\UsuarioFacadeLocal.class
+Entity\Usuario_.class
+Entity\Usuario.class
+Ejb\AbstractFacade.class
